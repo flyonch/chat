@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
-!node_modules/react-dom
-!node_modules.react
-!node_modules/events
-!node_modules/axios
-!node_modules/web-vitals
+react-dom
+react
+events
+axios
+web-vitals
