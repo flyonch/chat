@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+react-dom
+react
+events
+axios
+web-vitals
